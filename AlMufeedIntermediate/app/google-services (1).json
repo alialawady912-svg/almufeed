@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "701763073789",
+    "project_id": "mufeed-intermediate-6eaf6",
+    "storage_bucket": "mufeed-intermediate-6eaf6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701763073789:android:3e4bde6ff4aa000c13b094",
+        "android_client_info": {
+          "package_name": "com.almufeed.intermediate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwoGrDmMD2crt9qZwGkllmWdzzQgVyDHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
