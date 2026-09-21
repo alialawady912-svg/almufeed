@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity() {
         webView.webViewClient = WebViewClient()
 
         // رابط موقع مدرسة المفيد المتوسطة الجديد
-        webView.loadUrl("https://mufeed-intermediate.web.app/")
+        webView.loadUrl("https://mufeed-intermediate-6eaf6.web.app/")
     }
 
     // السماح بالرجوع للصفحات داخل التطبيق عند الضغط على زر العودة في الهاتف
